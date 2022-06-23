@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishika
 - 👀 I’m interested in JavaScript and React
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning NextJS
 
 <!---
 rishika06/rishika06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
